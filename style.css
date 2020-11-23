@@ -1,0 +1,48 @@
+h1 {
+    color: indigo;
+    text-align: center;
+    font-size: 65px;
+    font-style: inherit;
+    font-family:  Brush Script MT;
+    margin-left: 480px;
+}
+
+* {
+    
+}
+
+.header{
+    background-color:#7af567;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+
+    
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+body{
+    
+    background-image: url("C:\Users\ROHIT\Desktop\8ee9f4c5ecdab1b61bfb56ce142cf873.jpg");
+}
